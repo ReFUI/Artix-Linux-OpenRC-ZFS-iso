@@ -6,8 +6,7 @@ http://www.mediafire.com/file/uxbi15iwwoyqg1k/artix-base-openrc-zfs.zip/file
 Please consult the official documentation on the Arch wiki and the Artix 
 wiki if you need assistace with installation. This is just a bare iso 
 that you can install Artix linux from, so you will need to do the rease-
-arch on how to install it. Here are some links to the official doccumen-
-tation. 
+arch on how to install it. Here are some links to the official documentation. 
 
 https://wiki.artixlinux.org/Main/InstallationOnZFS
 https://ramsdenj.com/2016/06/23/arch-linux-on-zfs-part-2-installation.html
